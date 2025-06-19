@@ -96,7 +96,7 @@ Example Response:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/MSekhar2002/eigenlayer-restaking-api.git
 cd eigenlayer-restaking-api
 ```
 
